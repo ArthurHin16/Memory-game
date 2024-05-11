@@ -19,7 +19,7 @@ To run the project:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run the Python script `memory_game.py`.
+3. Run the Python script `Game_Memory.py`.
 
 ```bash
-python memory_game.py
+python Game_Memory.py
